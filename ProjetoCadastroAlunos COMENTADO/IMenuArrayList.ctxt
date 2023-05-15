@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IMenuArrayList
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ IMenuArrayList\ aqui.\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment1.text=\r\n\ Exemplo\ de\ um\ cabe\u00E7alho\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\r\n\ \r\n\ @param\ \ y\ \ \ \ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ \ \ \ o\ resultado\ produzido\ pelo\ sampleMethod\ \r\n
+numComments=2

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Aluno\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Aluno()
+comment2.params=
+comment2.target=java.lang.String\ getRa()
+comment3.params=
+comment3.target=java.lang.String\ getSerie()
+comment4.params=n
+comment4.target=float\ getNota(int)
+comment5.params=n
+comment5.target=java.lang.String\ getDisc(int)
+comment6.params=ra
+comment6.target=java.lang.String\ setRa(java.lang.String)
+comment7.params=serie
+comment7.target=java.lang.String\ setSerie(java.lang.String)
+comment8.params=disc\ n\ nota
+comment8.target=void\ setDisciplina(java.lang.String,\ int,\ float)
+numComments=9

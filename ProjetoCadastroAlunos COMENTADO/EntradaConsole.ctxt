@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EntradaConsole
+comment1.params=
+comment1.target=java.lang.String\ lerNome()
+comment2.params=
+comment2.target=java.lang.String\ lerIdade()
+comment3.params=
+comment3.target=java.lang.String\ lerRa()
+comment4.params=
+comment4.target=java.lang.String\ lerSerie()
+comment5.params=
+comment5.target=java.lang.String\ lerDisciplina()
+comment6.params=
+comment6.target=java.lang.String\ lerNota()
+comment7.params=
+comment7.target=java.lang.String\ lerListaRa()
+comment8.params=
+comment8.target=int\ Menu()
+numComments=9

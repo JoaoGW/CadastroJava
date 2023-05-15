@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=NomePessoa
+comment0.text=\r\n\ Classe\ para\ armazenar\ o\ nome\ de\ uma\ pessoa.\ Possibilita\ inverter\ nome\ e\ limpar\r\n\ espa\u00E7os\ extras\ (opera\u00E7oes\ herdados\ da\ classe\ pai).\r\n\ Retorna\ o\ nome\ da\ pessoa\ em\ formato\ de\ bibliografia\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2019/02/29\r\n
+comment1.params=nome
+comment1.target=NomePessoa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=nome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=int\ getQtdePalavras()
+comment5.params=
+comment5.target=java.lang.String\ getNomeInvertido()
+comment6.params=
+comment6.target=java.lang.String\ getNomeBiblio()
+comment7.params=s
+comment7.target=boolean\ verificaStr(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
