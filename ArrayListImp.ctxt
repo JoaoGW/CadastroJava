@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArrayListImp
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ ArrayList\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=boolean\ getError()
+comment2.params=erro
+comment2.target=void\ setError(boolean)
+comment3.params=
+comment3.target=void\ adicionarUsuarioAlunoArrayList()
+numComments=4
