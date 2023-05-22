@@ -9,4 +9,6 @@
 public interface IArmazenador
 {
     public void adicionarUsuarioAlunoArrayList();
+    public bool estaVaziaArrayList();
+    public void buscarUsuarioArrayList(String ra);
 }
