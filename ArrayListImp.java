@@ -21,6 +21,7 @@ public class ArrayListImp implements IArmazenador
     
     //Criação da array de alunos e professores para funcionalidade de cadastro em Array
     List<List<String>> usuariosArr = new ArrayList<List<String>>();
+    List<String> listaCad = new ArrayList<>();
     
     public boolean getError(){
         return this.error;
@@ -30,9 +31,7 @@ public class ArrayListImp implements IArmazenador
         this.error = erro;
     }
     
-    public void adicionarUsuarioAlunoArrayList(){
-        List<String> listaCad = new ArrayList<>();
-        
+    public void adicionarUsuarioAlunoArrayList(){        
         //Para o nome
         try{
             do{
@@ -88,7 +87,7 @@ public class ArrayListImp implements IArmazenador
 
 
     public void buscarUsuarioArrayList(String ra){
-          try{
+    try{
         listaCad.contains(ra);
     }catch(Exception e){
         System.out.println(“Usuario não existe");
