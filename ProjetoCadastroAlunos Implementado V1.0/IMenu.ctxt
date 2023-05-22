@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IMenu
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ IMenu\ aqui.\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=
+comment1.target=int\ lerRa()
+comment2.params=
+comment2.target=java.lang.String\ lerNome()
+comment3.params=x
+comment3.target=float\ lerNotaDisc(int)
+comment4.params=
+comment4.target=int\ lerIdade()
+comment5.params=
+comment5.target=int\ lerSerie()
+comment6.params=
+comment6.target=void\ Listar()
+comment7.params=
+comment7.target=void\ Menu()
+numComments=8

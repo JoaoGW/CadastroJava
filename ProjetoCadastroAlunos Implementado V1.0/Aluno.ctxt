@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Aluno\ aqui.\r\n\ \r\n\ @author\ Pedro\r\n\ @version\ 2023\r\n
+comment1.params=
+comment1.target=Aluno()
+comment2.params=
+comment2.target=int\ getRa()
+comment3.params=
+comment3.target=int\ getSerie()
+comment4.params=ra
+comment4.target=void\ setRa(int)
+comment5.params=serie
+comment5.target=void\ setSerie(int)
+comment6.params=nome\ idade\ ra\ serie
+comment6.target=void\ cadNovo(java.lang.String,\ int,\ int,\ int)
+comment7.params=nomedisc\ notadisc
+comment7.target=void\ cadDisc(java.lang.String[],\ float[])
+numComments=8

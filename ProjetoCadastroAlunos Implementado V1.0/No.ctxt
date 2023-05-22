@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=No
+comment0.text=\r\n\ No\ de\ uma\ lista\ ligada.\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 1.0\ 2023/05/15\r\n
+comment1.params=conteudo
+comment1.target=No(java.lang.Object)
+comment1.text=\r\n\ No\ Construtor\r\n\r\n\ @param\ conteudo\ Object\ a\ ser\ inserido\ no\ no\r\n
+comment2.params=conteudo
+comment2.target=void\ setConteudo(java.lang.Object)
+comment2.text=\r\n\ setters\ e\ getters\r\n
+comment3.params=proximo
+comment3.target=void\ setProximo(No)
+comment4.params=
+comment4.target=java.lang.Object\ getConteudo()
+comment5.params=
+comment5.target=No\ getProximo()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

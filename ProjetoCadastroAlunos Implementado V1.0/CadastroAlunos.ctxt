@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CadastroAlunos
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ CadastroAlunos\ aqui.\r\n\ Cadastro\ cria\ uma\ instancia\ nova\ do\ tipo\ aluno\ e\ cadastra\ as\ informacoes\r\n\ com\ excessao\ da\ disciplina\ e\ nota\r\n\ CADDISC\ cadastra\ as\ disciplinas\ e\ suas\ respectivas\ notas\ no\ aluno\r\n\ Armazenar\ armazena\ o\ objeto\ aluno\ em\ um\ banco\ de\ dados(vetdin,arraylist\ ou\ listaligada)\r\n\ @author\ Grupo\ Pedro\ \r\n\ @version\ 2023\r\n
+comment1.params=
+comment1.target=CadastroAlunos()
+comment2.params=nome\ idade\ ra\ serie
+comment2.target=void\ Cadastro(java.lang.String,\ int,\ int,\ int)
+comment3.params=nomedisc\ notadisc
+comment3.target=void\ cadDisc(java.lang.String[],\ float[])
+comment4.params=
+comment4.target=void\ Armazenar()
+numComments=5
