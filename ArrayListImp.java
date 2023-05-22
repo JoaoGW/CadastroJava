@@ -93,7 +93,7 @@ public class ArrayListImp implements IArmazenador
 
     }
 
-    public bool estaVaziaArrayList(){
+    public boolean estaVaziaArrayList(){
         boolean vazia = false;
 
         if(usuariosArr.isEmpty(){
