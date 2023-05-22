@@ -103,4 +103,12 @@ public class ArrayListImp implements IArmazenador
         }
     return vazia;
     }
+
+    public void removerUsuarioArrayList(String ra){
+    int posicao;
+    
+    posicao = listaCad.indexOf(ra);
+    posicao++;
+    usuariosArr.remove(posicao);
+    }
 }
