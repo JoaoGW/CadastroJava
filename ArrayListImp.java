@@ -31,11 +31,11 @@ public class ArrayListImp implements IArmazenador
         this.error = erro;
     }
     
-    public void adicionarUsuarioAlunoArrayList(){        
+    public void adicionarUsuarioAlunoArrayList(String nomeRec, String raRec, String serieRec, idadeRec){        
         //Para o nome
         try{
             do{
-                nome = ent.lerNome();
+                nome = nomeRec;
             } while ( getError() == true );
         }catch(Exception e){
             setError(true);
@@ -44,7 +44,7 @@ public class ArrayListImp implements IArmazenador
         //Para o RA
         try{
             do{
-                ra = ent.lerRa();
+                ra = raRec;
             } while (getError() == true);
         }catch(Exception e){
             setError(true);
@@ -53,7 +53,7 @@ public class ArrayListImp implements IArmazenador
         //Para a série
         try{
             do{
-                serie = ent.lerSerie();
+                serie = serieRec;
             }while(getError() == true);
         }catch(Exception e){
             setError(true);
@@ -62,7 +62,7 @@ public class ArrayListImp implements IArmazenador
         //Para a idade
         try{
             do{
-                idade = ent.lerIdade();
+                idade = idadeRec;
             } while ( getError() == true );
         }catch(Exception e){
             setError(true);
@@ -90,18 +90,15 @@ public class ArrayListImp implements IArmazenador
     try{
         listaCad.contains(ra);
     }catch(Exception e){
-        System.out.println(“Usuario não existe");
+
     }
 
     public bool estaVaziaArrayList(){
         boolean vazia = false;
+
         if(usuariosArr.isEmpty(){
-            //Temporários
-            System.out.println(“A lista está vazia");
             vazia = true;
-        }else{
-            //Temporários
-            System.out.println(“A lista contém itens");
+        }else{        
             vazia = false;
         }
     return vazia;
