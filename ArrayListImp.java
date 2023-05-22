@@ -98,10 +98,12 @@ public class ArrayListImp implements IArmazenador
         if(usuariosArr.isEmpty(){
             //Temporários
             System.out.println(“A lista está vazia");
+            vazia = true;
         }else{
             //Temporários
             System.out.println(“A lista contém itens");
+            vazia = false;
         }
-         
+    return vazia;
     }
 }
