@@ -85,4 +85,24 @@ public class ArrayListImp implements IArmazenador
             
         //FAZER Adiciona mais um cadastro no contador
     }
+
+
+    public void buscarUsuarioArrayList(String ra){
+          try{
+        listaCad.contains(ra);
+    }catch(Exception e){
+        System.out.println(“Usuario não existe");
+    }
+
+    public bool estaVaziaArrayList(){
+        boolean vazia = false;
+        if(usuariosArr.isEmpty(){
+            //Temporários
+            System.out.println(“A lista está vazia");
+        }else{
+            //Temporários
+            System.out.println(“A lista contém itens");
+        }
+         
+    }
 }
